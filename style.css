@@ -1,0 +1,30 @@
+body{
+    background:url('fondo.jpg');
+    color:azure;
+    text-align: center;
+    min-height:100%;
+    position:relative;
+
+
+}
+
+#cuad{
+    background:url('oc.gif');
+}
+
+#caj{
+background:url('c.jpg');
+
+}
+#caj1{
+background:url('d.jpg');
+
+}
+#caj2{
+background:url('e.jpg');
+
+}
+#caj3{
+background:url('f.jpg');
+
+}
